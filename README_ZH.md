@@ -42,24 +42,11 @@ oui使用[json-rpc]和OpenWrt子系统通信。
 
 	Oui  --->
 		Applications  --->
-			<*> oui-app-active-routes...................................... Active Routes
 			<*> oui-app-admin............................................. Administration
-			<*> oui-app-bwm............................................ Bandwidth Monitor
-			<*> oui-app-cron............................................. Scheduled Tasks
-			<*> oui-app-dhcp.................................................... DHCP/DNS
 			<*> oui-app-diagnostics.......................................... Diagnostics
-			<*> oui-app-dmesg................................................. Kernel Log
-			<*> oui-app-example..................................... Oui Support for rtty
 			<*> oui-app-firewall................................................ Firewall
-			<*> oui-app-hosts.................................................. Hostnames
+			<*> oui-app-home.......................................... Built-in home page
 			<*> oui-app-interfaces.................................... Network Interfaces
-			<*> oui-app-leds........................................... LED Configuration
-			<*> oui-app-processes.............................................. Processes
-			<*> oui-app-routes.................................................... Routes
-			<*> oui-app-rtty........................................ Oui Support for rtty
-			<*> oui-app-ssh.......................................................... SSH
-			<*> oui-app-switch.................................................... Switch
-			<*> oui-app-syslog.................................................... Syslog
 			<*> oui-app-system............................................ System Setting
 			<*> oui-app-upgrade......................................... Backup / Upgrade
 			<*> oui-app-wireless................................................ Wireless
